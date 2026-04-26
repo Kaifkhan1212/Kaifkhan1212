@@ -101,10 +101,4 @@ TeleHealth platform connecting patients and doctors.
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Kaifkhan1212/Kaifkhan1212/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐ Building impactful solutions through code, creativity, and continuous learning.
