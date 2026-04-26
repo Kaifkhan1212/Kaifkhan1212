@@ -83,7 +83,6 @@ Worked on an AI-powered duplicate detection solution (DupliDetect) and contribut
 
 ### 📄 ResumeXAI
 AI-powered platform for resume analysis, skill-gap detection and candidate evaluation.  
-
 📂 Repository: [GitHub Repo](https://github.com/Kaifkhan1212/ResumeXAI)
 
 ---
