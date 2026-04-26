@@ -86,7 +86,7 @@ TeleHealth platform connecting patients and doctors.
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="mailto:kaif0140@gmail.com">
+<a href="mailto:kaif01450@gmail.com">
 <img src="https://img.shields.io/badge/Email-kaif0140%40gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 
