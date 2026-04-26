@@ -87,8 +87,9 @@ TeleHealth platform connecting patients and doctors.
 
 <p align="center">
 <a href="mailto:kaif01450@gmail.com">
-<img src="https://img.shields.io/badge/Email-kaif0140%40gmail.com-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-kaif01450%40gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
+
 
 <a href="https://www.linkedin.com/in/kaifkhan01/">
 <img src="https://img.shields.io/badge/LinkedIn-Kaif%20Khan-blue?style=for-the-badge&logo=linkedin">
