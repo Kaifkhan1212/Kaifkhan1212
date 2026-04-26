@@ -109,7 +109,7 @@ TeleHealth platform connecting patients and doctors.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=tokyonight&no-frame=true&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
