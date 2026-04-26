@@ -22,8 +22,7 @@ Passionate about building AI-powered and user-centric web applications.
 - 🎓 MCA (Pursuing) — BVIMIT  
 - 🎓 BCA Graduate — CGPA: 8.90  
 - 🌱 Currently learning Spring Boot  
-- 🚀 Exploring FastAPI, Google Cloud & scalable AI systems
-
+- 🚀 Exploring scalable backend development, cloud technologies and AI-powered solutions
 ---
 
 ## 🧠 Skills
