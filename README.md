@@ -76,13 +76,12 @@ Worked on an AI-powered duplicate detection solution (DupliDetect) and contribut
 - Feature implementation for multilingual duplicate analysis
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="500"/>
+<img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420"/>
 </p>
 
 ### 📄 ResumeXAI
 AI-powered platform for resume analysis, skill-gap detection and candidate evaluation.
-
-🔗 Repository: (Add your ResumeXAI GitHub link)
+📂 Repository: [GitHub Repo](https://github.com/Kaifkhan1212/ResumeXAI.git)
 
 ---
 
@@ -117,12 +116,6 @@ TeleHealth platform connecting patients and doctors.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifkhan1212&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
