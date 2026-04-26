@@ -66,6 +66,19 @@ Passionate about building scalable AI-powered and user-centric web applications 
 
 ---
 
+## 🏆 Hackathon Achievement
+
+🥈 2nd Place — Innov8 Hackathon (Pixels 2026)
+
+Worked on an AI-powered duplicate detection solution (DupliDetect) and contributed to:
+- React frontend development  
+- Firebase authentication  
+- Feature implementation for multilingual duplicate analysis
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="500"/>
+</p>
+
 ### 📄 ResumeXAI
 AI-powered platform for resume analysis, skill-gap detection and candidate evaluation.
 
