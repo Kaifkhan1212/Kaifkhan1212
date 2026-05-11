@@ -140,6 +140,14 @@ Contributions:
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaifkhan1212&theme=tokyo-night"/> 
+</p>
+
+---
+
 # 🤝 Open to Collaborate On
 
 - 🌐 Full Stack Web Applications
