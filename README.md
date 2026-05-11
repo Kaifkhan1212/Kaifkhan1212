@@ -1,118 +1,79 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer;Hackathon+Runner-Up+🏆;Building+AI-Powered+Applications;Passionate+About+Scalable+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer;Hackathon+Winner+%F0%9F%8F%86;Building+AI-Powered+Applications"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Kaifkhan1212&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hackathon-Runner--Up-gold?style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Kaifkhan1212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathon-Winner-gold?style=for-the-badge"/>
 </p>
 
 <h3 align="center">
-💻 Full Stack Developer | MCA Student | AI Enthusiast 🚀
+💻 Frontend & Full Stack Developer | MCA Student | 🥈 Hackathon Winner
 </h3>
 
 <p align="center">
-Passionate about building scalable AI-powered applications and user-centric digital solutions for real-world problems.
+Passionate about building scalable AI-powered applications and user-centric solutions for real-world problems.
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/SpringBoot-Backend-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/Firebase-Auth-FFCA28?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🌟 About Me
+## 🌟 About Me
 
-- 🎓 MCA Student at Bharati Vidyapeeth Institute of Management & Information Technology (BVIMIT)
-- 🎓 BCA Graduate — CGPA: 8.90
-- 🥈 Innov8 Hackathon 2026 Runner-Up
-- 💻 Passionate Full Stack Developer focused on AI-powered applications
-- 🌱 Currently learning Spring Boot, scalable backend systems & cloud technologies
-- 🚀 Interested in building impactful real-world software solutions
+- 🎓 MCA (Pursuing) — BVIMIT  
+- 🎓 BCA Graduate — CGPA: 8.90  
+- 🌱 Currently learning Spring Boot  
+- 🚀 Exploring scalable backend development, cloud technologies and AI-powered solutions
 
 ---
 
-# 🔭 Currently Working On
+## 🔭 Currently Working On
 
-- 🤖 Building AI-powered applications
-- ⚙️ Learning Spring Boot for backend development
-- ☁️ Exploring scalable cloud architectures
-- 📚 Improving DSA & system design skills
+- Building AI-powered applications  
+- Learning Spring Boot for backend development  
+- Exploring scalable full-stack architectures
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java,python,spring,fastapi,nodejs,firebase,mongodb,mysql,postgres,git,github,vscode,postman,gcp"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,fastapi,firebase,gcp,spring"/>
 </p>
 
 ---
 
-# 🛠 Tools & Platforms
+## 🛠 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,figma,supabase,vercel,netlify,render"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,postgres,mongodb,supabase"/>
 </p>
 
 ---
 
-# 💼 Featured Projects
+## 💼 Featured Projects
 
-## 🏆 DupliDetect — Hackathon Winning Project
-
-🔹 AI-powered duplicate detection platform
-🔹 Developed responsive frontend using React.js
-🔹 Implemented Firebase Authentication
-🔹 Integrated multilingual duplicate analysis & vector search
-🔹 Optimized UI/UX for real-time detection workflows
+### 🏆 DupliDetect — Hackathon Winning Project
+- AI-powered duplicate detection system  
+- Developed frontend features using React  
+- Implemented Firebase Authentication  
+- Integrated multilingual translation and vector search
 
 ---
 
-## 📄 ResumeXAI
-
-AI-powered platform for resume analysis, skill-gap detection and candidate evaluation.
-
-🚀 Live Demo: [View Project](https://resume-xai-2-0.vercel.app/dashboard)
-
-📂 Repository: [GitHub Repo](https://github.com/Kaifkhan1212/ResumeXAI2.0.git)
-
----
-
-## 🌐 MindBrief — AI Web Summarizer
-
-Intelligent web summarizer using Gemini AI and multi-source extraction.
-
-🚀 Live Demo: [View Project](https://mind-brief-ai-web-summarizer-caa6.vercel.app)
-
-📂 Repository: [GitHub Repo](https://github.com/Kaifkhan1212/Web-Summarization)
-
----
-
-## 🏥 SehatLink — TeleHealth Platform
-
-TeleHealth platform connecting patients and doctors.
-
-🚀 Live Demo: [View Project](https://sehat-link.vercel.app)
-
-📂 Repository: [GitHub Repo](https://github.com/Kaifkhan1212/SehatLink)
-
----
-
-# 🏆 Hackathon Achievement
+## 🏆 Hackathon Achievement
 
 🥈 2nd Place — Innov8 Hackathon (Pixels 2026)
 
 Worked on an AI-powered duplicate detection solution (DupliDetect) and contributed to:
-
-- React frontend development
-- Firebase authentication
-- Multilingual duplicate analysis
-- Feature implementation & optimization
+- React frontend development  
+- Firebase authentication  
+- Feature implementation for multilingual duplicate analysis
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420"/>
@@ -120,14 +81,38 @@ Worked on an AI-powered duplicate detection solution (DupliDetect) and contribut
 
 ---
 
-# 📊 GitHub Stats
+### 📄 ResumeXAI
+AI-powered platform for resume analysis, skill-gap detection and candidate evaluation.  
+
+🚀 Live Demo: [View Project](https://resume-xai-2-0.vercel.app/dashboard)  
+📂 Repository: [GitHub Repo](https://github.com/Kaifkhan1212/ResumeXAI2.0.git)
+
+---
+
+### 🌐 MindBrief — AI Web Summarizer
+Intelligent web summarizer using Gemini AI and multi-source extraction.
+
+🚀 Live Demo: [View Project](https://mind-brief-ai-web-summarizer-caa6.vercel.app)  
+📂 Repository: [GitHub Repo](https://github.com/Kaifkhan1212/Web-Summarization)
+
+---
+
+### 🏥 SehatLink — TeleHealth Platform
+TeleHealth platform connecting patients and doctors.
+
+🚀 Live Demo: [View Project](https://sehat-link.vercel.app)  
+📂 Repository: [GitHub Repo](https://github.com/Kaifkhan1212/SehatLink)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kaifkhan1212&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Kaifkhan1212&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaifkhan1212&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -136,60 +121,21 @@ Worked on an AI-powered duplicate detection solution (DupliDetect) and contribut
 
 ---
 
-# 🏆 GitHub Trophies
+## 🤝 Open to Collaborate On
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaifkhan1212&theme=tokyo-night"/>
-</p>
+- Full Stack Web Projects  
+- AI-powered Applications  
+- Open Source & Hackathon Collaborations
 
 ---
 
-# 🐍 Contribution Snake
+## ⚡ Fun Fact
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg"/>
-</p>
+I enjoy turning hackathon ideas into real-world products.
 
 ---
 
-# 🤝 Open to Collaborate On
-
-- 🌐 Full Stack Web Applications
-- 🤖 AI-powered Platforms
-- 🚀 Startup & Hackathon Projects
-- 📦 Open Source Contributions
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-5⭐-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-</p>
-
----
-
-# ⚡ Fun Fact
-
-💡 I enjoy turning hackathon ideas into real-world impactful products.
-
----
-
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
 <a href="mailto:kaif01450@gmail.com">
@@ -207,7 +153,4 @@ Worked on an AI-powered duplicate detection solution (DupliDetect) and contribut
 
 ---
 
-<p align="center">
 ⭐ Building impactful solutions through code, creativity, and continuous learning.
-</p>
-```
