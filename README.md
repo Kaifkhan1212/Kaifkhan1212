@@ -39,7 +39,7 @@ Passionate about building scalable AI-powered applications and user-centric digi
 # 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java,python,spring,fastapi,nodejs,firebase,mongodb,mysql,postgres,git,github,vscode,postman,gcp"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,java,python,spring,fastapi,nodejs,firebase,mongodb,mysql,postgres"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@ Passionate about building scalable AI-powered applications and user-centric digi
 # 🛠 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,figma,supabase,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,supabase,vercel,netlify,render,eclipse"/>
 </p>
 
 ---
