@@ -116,26 +116,26 @@ Contributions:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kaifkhan1212&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaifkhan1212&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Kaifkhan1212&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Kaifkhan1212&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifkhan1212&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifkhan1212&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=onedark&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=onedark&row=1&column=6" />
 </p>
 
 ---
