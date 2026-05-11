@@ -135,15 +135,7 @@ Contributions:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaifkhan1212&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=onedark&row=1&column=6"/>
 </p>
 
 ---
