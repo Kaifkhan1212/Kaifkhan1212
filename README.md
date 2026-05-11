@@ -47,7 +47,7 @@ Passionate about building scalable AI-powered applications and user-centric digi
 # 🛠 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,supabase,vercel,netlify,render,eclipse"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,supabase,vercel,netlify,eclipse"/>
 </p>
 
 ---
