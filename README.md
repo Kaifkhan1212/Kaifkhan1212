@@ -20,8 +20,8 @@ Passionate about building scalable AI-powered applications and user-centric digi
 
 # 🌟 About Me
 
-- 🎓 MCA (Pursuing) — BVIMIT
-- 🎓 BCA Graduate — CGPA: 8.90
+- 🎓 MCA — BVIMIT
+- 🎓 BCA Graduate - SSBT
 - 🥈 Innov8 Hackathon 2026 Runner-Up
 - 🌱 Currently learning Spring Boot & scalable backend systems
 - 🚀 Exploring AI-powered applications & cloud technologies
