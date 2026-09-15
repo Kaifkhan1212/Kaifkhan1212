@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+SpringBoot+Development%3F+I+make+it+explainable.;Full+Stack+Developer;Hackathon+Runner-Up+%F0%9F%8F%86"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer;Hackathon+Runner-Up+%F0%9F%8F%86;Building+Explainable+AI+Systems"/>
 </p>
 <p align="center">
 🥈 Runner-Up, Innov8 Hackathon 2026 — MCA student building AI systems that show their reasoning, not just their output.
