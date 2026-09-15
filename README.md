@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer;AI%2FML+Enthusiast;Building+AI-Powered+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer;Hackathon+Runner-Up+%F0%9F%8F%86;Building+AI-Powered+Applications"/>
 </p>
 
 <h3 align="center">
@@ -7,7 +7,13 @@
 </h3>
 
 <p align="center">
-I build full-stack and AI-powered applications, with a focus on explainable AI, healthcare-tech, and scalable backend systems.
+Passionate about building scalable AI-powered applications — 🥈 Runner-Up, Innov8 Hackathon 2026.
+</p>
+
+<p align="center">
+📫 <a href="mailto:kaif01450@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/kaifkhan01/">LinkedIn</a> ·
+<a href="https://github.com/Kaifkhan1212">GitHub</a>
 </p>
 
 <p align="center">
@@ -27,8 +33,6 @@ I build full-stack and AI-powered applications, with a focus on explainable AI, 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
