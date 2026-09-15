@@ -1,258 +1,143 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Khan+Mohammad+Kaif+Shahid;Software+Developer;Full+Stack+Developer;AI+Application+Developer;2nd+Prize+%E2%80%93+Innov8+Hackathon+2026"
-    alt="Typing SVG"
-  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer;Hackathon+Runner-Up+%F0%9F%8F%86;Building+AI-Powered+Applications"/>
+</p>
+
+<h3 align="center">
+💻 Full Stack Developer | MCA Student | AI Enthusiast 🚀
+</h3>
+
+<p align="center">
+Passionate about building scalable AI-powered applications — 🥈 Runner-Up, Innov8 Hackathon 2026.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kaifkhan1212">
-    <img src="https://komarev.com/ghpvc/?username=Kaifkhan1212&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Kaifkhan1212?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kaifkhan1212?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <img src="https://img.shields.io/badge/Innov8%20Hackathon-2nd%20Prize-gold?style=for-the-badge" alt="Innov8 Hackathon 2nd Prize"/>
+📫 <a href="mailto:kaif01450@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/kaifkhan01/">LinkedIn</a> ·
+<a href="https://github.com/Kaifkhan1212">GitHub</a>
 </p>
 
 <p align="center">
-  <strong>Java • Python • FastAPI • SQL • AI Applications</strong>
+📫 <a href="mailto:kaif01450@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/kaifkhan01/">LinkedIn</a> ·
+<a href="https://github.com/Kaifkhan1212">GitHub</a>
 </p>
+
+---
+
+## Tech Stack
+
+**Languages & Frameworks**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [KidneyCare-XAI](https://github.com/Kaifkhan1212/KidneyXAI)
+A bimodal explainable AI platform for chronic kidney disease (CKD) risk assessment and lifestyle adherence monitoring. Combines an XGBoost classifier with two layers of human-interpretable explanation (SHAP visualizations + plain-language narrative), with recommendations traceable to KDIGO 2024 clinical guidelines.
+- Full-stack platform with a Spring Boot backend and PostgreSQL (Supabase) database
+- Achieves ≥98% accuracy on the UCI CKD dataset via 10-fold cross-validation
+- Includes longitudinal patient tracking (water intake, sleep, exercise, sodium) for high-risk cohorts
+
+`Spring Boot` `Python` `XGBoost` `SHAP` `PostgreSQL`
+**[Live Demo](https://kidney-xai.kaifkhan.in)** · **[Repository](https://github.com/Kaifkhan1212/KidneyXAI)**
+
+---
+
+### [ResumeXAI](https://github.com/Kaifkhan1212/ResumeXAI2.0) — AI Resume Analyzer
+AI-powered system that analyzes resumes against job descriptions and generates detailed reports with actionable improvement suggestions.
+- Secure authentication using JWT and Google OAuth
+- Structured feedback generation powered by the Groq API
+
+`React` `FastAPI` `PostgreSQL` `Groq API`
+**[Live Demo](https://resume-xai-2-0.vercel.app)** · **[Repository](https://github.com/Kaifkhan1212/ResumeXAI2.0)**
+
+---
+
+### [MindBrief](https://github.com/Kaifkhan1212/Web-Summarization) — Intelligent Web Summarizer
+Full-stack AI-powered summarizer that extracts and analyzes content from multiple sources into structured, multi-source research summaries.
+- Web scraping and content extraction via Cheerio and Mozilla Readability
+- Summary generation powered by the Gemini API
+
+`Next.js` `Node.js` `Express.js` `Gemini API` `Firebase`
+**[Live Demo](https://mind-brief-ai-web-summarizer-caa6.vercel.app)** · **[Repository](https://github.com/Kaifkhan1212/Web-Summarization)**
+
+---
+
+### [SehatLink](https://github.com/Kaifkhan1212/SehatLink) — Telehealth Platform
+Telehealth platform connecting patients and doctors, with real-time data sync, offline access, and role-based dashboards.
+
+`React` `Firebase` `Razorpay API`
+**[Live Demo](https://sehat-link.vercel.app)** · **[Repository](https://github.com/Kaifkhan1212/SehatLink)**
+
+---
+
+### DupliDetect — Multilingual Duplicate Detection System (🥈 2nd Prize, Innov8 Hackathon — Pixels 2026)
+AI-powered system to detect semantic duplicates across multilingual datasets using transformer embeddings, with high-speed similarity search for efficient clustering of large-scale text data.
+- Full-stack application enabling real-time data processing and visualization
+- Secured 2nd Prize among 60+ teams at SIES College of Management Studies
+
+`React` `Python` `FAISS` `ONNX` `Streamlit`
 
 <p align="center">
-  MCA Student @ BVIMIT · Building practical web and AI-powered applications
+<img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420"/>
 </p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://kaifkhan.in">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/kaifkhan01/">LinkedIn</a> ·
-  <a href="mailto:kaif01450@gmail.com">Email</a>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kaifkhan1212&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kaifkhan1212&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Education
 
-I'm an MCA student and aspiring software developer interested in building practical software solutions using Java, Python, web technologies, databases, and AI.
-
-My projects focus on solving real-world problems through AI-powered applications, backend development, and data-driven solutions.
-
-🥈 **2nd Prize — Innov8 Hackathon (Pixels 2026)**  
-Built **DupliDetect**, a multilingual semantic duplicate detection platform.
-
-🎯 Currently focused on improving my skills in **software development, backend development, databases, and AI applications**.
+- **MCA** — Bharati Vidyapeeth's Institute of Management & Information Technology (2025–2027) 
+- **BCA** — Shramsadhana Bombay Trust College of Engineering & Technology (2022–2025) 
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python" alt="Java and Python"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="Frontend Technologies"/>
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend Technologies"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="Databases"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" alt="Development Tools"/>
-</p>
-
 ---
 
-# 🚀 Featured Projects
-
-## 🩺 KidneyCare-XAI
-
-### Explainable AI for CKD Risk Assessment & Lifestyle Adherence
-
-A full-stack explainable AI platform designed for Chronic Kidney Disease risk assessment and lifestyle adherence monitoring.
-
-- XGBoost-based risk prediction with SHAP explanations
-- Spring Boot backend with role-based authentication
-- FastAPI-based ML service
-- PostgreSQL database through Supabase
-- Lifestyle tracking and recommendation workflow
-
-**Tech:** `React.js` `Java` `Spring Boot` `Python` `FastAPI` `XGBoost` `SHAP` `PostgreSQL`
-
-🔗 **Live:** https://kidney-xai.kaifkhan.in  
-🔗 **GitHub:** https://github.com/Kaifkhan1212/KidneyXAI
-
----
-
-## 🏆 DupliDetect
-
-### Multilingual Semantic Duplicate Detection
-
-AI-powered platform for identifying semantically similar or duplicate content across multilingual datasets.
-
-- Detects semantic duplicates using transformer embeddings
-- Uses FAISS for fast similarity search
-- Supports multilingual text processing
-- Includes interactive result visualization
-
-🥈 **2nd Prize — Innov8 Hackathon (Pixels 2026)**
-
-**Tech:** `React.js` `Python` `MiniLM` `FAISS` `ONNX` `Streamlit`
-
-🔗 **GitHub:** https://github.com/Kaifkhan1212/DupliDetect-AI
-
----
-
-## 📄 ResumeXAI
-
-### AI Resume Analyzer
-
-AI-powered platform that analyzes resumes against job descriptions and provides structured feedback.
-
-- Resume analysis against job requirements
-- JWT and Google OAuth authentication
-- AI-generated improvement suggestions
-- Detailed analysis reports
-
-**Tech:** `React.js` `FastAPI` `PostgreSQL` `Groq API`
-
-🔗 **Live:** https://resume-xai-2-0.vercel.app  
-🔗 **GitHub:** https://github.com/Kaifkhan1212/ResumeXAI2.0
-
----
-
-## 🌐 MindBrief
-
-### Intelligent Web Summarizer
-
-AI-powered web summarization platform that extracts content from multiple sources and generates structured summaries.
-
-- Web scraping and content extraction
-- Cheerio and Mozilla Readability integration
-- Gemini-powered summary generation
-- Multi-source research summarization
-
-**Tech:** `Next.js` `Node.js` `Express.js` `Gemini API` `Firebase`
-
-🔗 **Live:** https://mind-brief-ai-web-summarizer-caa6.vercel.app  
-🔗 **GitHub:** https://github.com/Kaifkhan1212/Web-Summarization
-
----
-
-## 🏥 SehatLink
-
-### TeleHealth Platform
-
-A web-based telehealth platform connecting patients and doctors.
-
-- Patient and doctor connectivity
-- Real-time data synchronization
-- Offline access support
-- Role-based dashboards
-
-**Tech:** `React.js` `Firebase` `Razorpay API`
-
-🔗 **Live:** https://sehat-link.vercel.app  
-🔗 **GitHub:** https://github.com/Kaifkhan1212/SehatLink
-
----
-
-# 🏆 Achievement
-
-## Innov8 Hackathon – Pixels 2026
-
-🥈 **2nd Prize**
-
-Built **DupliDetect**, a multilingual semantic duplicate detection platform focused on identifying duplicate content using AI-based similarity analysis.
-
-### Contributions
-- React.js frontend development
-- Dashboard and UI implementation
-- Full-stack integration
-- AI-based duplicate detection workflow
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Kaifkhan1212&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifkhan1212&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Kaifkhan1212&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kaifkhan1212&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Spring Boot
-- Backend Development
-- AI Application Development
-- System Design Fundamentals
-
----
-
-# 🤝 Open to Collaborate
+## Open to Collaborate On
 
 - Full-stack web applications
-- AI-powered applications
-- Hackathon projects
-- Open-source projects
-- Practical software solutions
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kaifkhan01/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kaif%20Khan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:kaif01450@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kaif01450-red?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-
-<a href="https://kaifkhan.in">
-  <img src="https://img.shields.io/badge/Portfolio-KaifKhan.in-black?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-</p>
+- AI/ML-powered platforms, especially in explainable AI and health-tech
+- Hackathons and startup projects
+- Open-source contributions
 
 ---
 
 <p align="center">
-  <em>Building, learning, and turning ideas into working software.</em>
+<em>Building impactful solutions through code, creativity, and continuous learning.</em>
 </p>
+how i can make it more professional and unique it  
