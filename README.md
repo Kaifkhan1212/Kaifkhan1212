@@ -122,14 +122,6 @@ AI-powered system to detect semantic duplicates across multilingual datasets usi
 
 ---
 
-## Certifications
-
-- NPTEL Elite + Silver — Programming in Java (IIT Kharagpur, SWAYAM)
-- NPTEL Elite + Silver — Cloud Computing (IIT Kharagpur, SWAYAM)
-- Oracle Certified Foundations Associate — Agentic AI
-- Microsoft Skill India Digital Hub — Python Programming
-- Simplilearn SkillUp — Introduction to SQL
-
 ---
 
 ## Open to Collaborate On
