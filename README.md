@@ -1,21 +1,14 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer;Hackathon+Runner-Up+%F0%9F%8F%86;Building+Explainable+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+SpringBoot+Development%3F+I+make+it+explainable.;Full+Stack+Developer;Hackathon+Runner-Up+%F0%9F%8F%86"/>
 </p>
-
-<!-- <h3 align="center">
-💻 Full Stack Developer | MCA Student | AI Enthusiast 🚀
-</h3>
-
 <p align="center">
-🥈 Runner-Up, Innov8 Hackathon 2026 — building AI systems that explain <em>why</em>, not just <em>what</em>.
-</p> -->
-
-<p align="center">
-📫 <a href="mailto:kaif01450@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/kaifkhan01/">LinkedIn</a> ·
-<a href="https://github.com/Kaifkhan1212">GitHub</a>
+🥈 Runner-Up, Innov8 Hackathon 2026 — MCA student building AI systems that show their reasoning, not just their output.
 </p>
-
+<p align="center">
+<a href="mailto:kaif01450@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kaifkhan01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Kaifkhan1212"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 ---
 
 ## 🪝 About Me
