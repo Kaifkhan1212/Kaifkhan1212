@@ -2,13 +2,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer;Hackathon+Runner-Up+%F0%9F%8F%86;Building+Explainable+AI+Systems"/>
 </p>
 
-<h3 align="center">
+<!-- <h3 align="center">
 💻 Full Stack Developer | MCA Student | AI Enthusiast 🚀
 </h3>
 
 <p align="center">
 🥈 Runner-Up, Innov8 Hackathon 2026 — building AI systems that explain <em>why</em>, not just <em>what</em>.
-</p>
+</p> -->
 
 <p align="center">
 📫 <a href="mailto:kaif01450@gmail.com">Email</a> ·
@@ -118,8 +118,12 @@ AI-powered system to detect semantic duplicates across multilingual datasets usi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00C2FF&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaifkhan1212&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=00C2FF&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaifkhan1212&style=for-the-badge"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kaifkhan1212&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifkhan1212&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kaifkhan1212&theme=tokyonight" />
 </p>
 
 ---
