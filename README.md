@@ -118,8 +118,8 @@ AI-powered system to detect semantic duplicates across multilingual datasets usi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kaifkhan1212&show_icons=true&theme=tokyonight" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaifkhan1212&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00C2FF&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaifkhan1212&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=00C2FF&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaifkhan1212&style=for-the-badge"/>
 </p>
 
 ---
