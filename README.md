@@ -167,122 +167,131 @@ print(me.say_hello())
 
 ## 🚀 `FEATURED PROJECTS`
 
-> Each project is listed once below. Repository links are included only where the public repository URL is confirmed.
+> A selection of my full-stack, backend engineering and AI projects.
+
+---
 
 ### 🏆 DupliDetect — Multilingual Semantic Duplicate Detection
 
 **🥈 2nd Prize — Innov8 Hackathon (Pixels 2026), among 60+ teams.**
 
-Built a multilingual duplicate-detection solution that identifies semantically similar records across datasets. The system uses transformer-based embeddings and vector similarity search for cross-lingual matching.
+An AI-powered solution that identifies semantically similar records across multilingual datasets using transformer embeddings and vector similarity search.
 
-- Contributed to the React-based interface and backend/ML integration.
-- Integrated Sentence Transformers with FAISS for embedding search.
-- Used ONNX Runtime and FastAPI in the inference pipeline.
+- Contributed to React frontend development and backend/ML integration.
+- Integrated Sentence Transformers with FAISS for semantic similarity search.
+- Used ONNX Runtime and FastAPI for efficient inference.
 
 `React` `Python` `FastAPI` `Sentence Transformers` `FAISS` `ONNX Runtime`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420" alt="Kaif Khan with teammates receiving the Innov8 Hackathon award" />
+  <img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420" alt="Innov8 Hackathon 2026 award ceremony" />
 </div>
-
-**Repository:** Public repository URL not added to this README yet.
 
 ---
 
 ### ☁️ CloudPMS — Cloud-Based Campus Placement Management System
 
-A role-based placement platform built for Students, Placement Cell and Admin workflows.
+A role-based placement management platform designed for Students, Placement Cell and Admin workflows.
 
-- Developed placement-management workflows and role-based dashboards.
+- Developed placement management workflows and role-based dashboards.
 - Integrated Amazon S3 for resume storage, Textract for text extraction and SES for email notifications.
 - Deployed on AWS EC2 with Nginx and PM2, using MongoDB Atlas and HTTPS.
 
 `React` `Node.js` `Express.js` `MongoDB Atlas` `AWS S3` `AWS Textract` `AWS SES` `Nginx` `PM2`
 
-**Repository:** Public repository URL not added to this README yet.
+🚀 **[Live Demo](https://cloudpms.kaifkhan.in)** · 📂 **[GitHub Repository](https://github.com/Kaifkhan1212/CloudPMS-PlacementPortal)**
 
 ---
 
 ### 🩺 [KidneyXAI — Explainable AI Kidney Risk Assessment](https://github.com/Kaifkhan1212/KidneyXAI)
 
-A full-stack explainable AI platform for chronic kidney disease risk assessment and lifestyle monitoring. It combines XGBoost predictions with TreeSHAP feature explanations to make model outputs easier to interpret.
+A full-stack explainable AI platform for chronic kidney disease risk assessment and lifestyle monitoring. It combines XGBoost predictions with TreeSHAP explanations to make model outputs easier to interpret.
 
-- Built the backend using Spring Boot and a Python FastAPI ML service.
-- Used Supabase PostgreSQL for application data.
-- Added lifestyle tracking to support ongoing patient monitoring.
+- Developed the backend using Spring Boot and a Python FastAPI ML service.
+- Integrated Supabase PostgreSQL for application data management.
+- Implemented lifestyle tracking for ongoing patient monitoring.
 
 `React` `Spring Boot` `Python` `FastAPI` `XGBoost` `TreeSHAP` `PostgreSQL`
 
-**[Live Demo](https://kidney-xai.kaifkhan.in)** · **[GitHub Repository](https://github.com/Kaifkhan1212/KidneyXAI)**
+🚀 **[Live Demo](https://kidney-xai.kaifkhan.in)** · 📂 **[GitHub Repository](https://github.com/Kaifkhan1212/KidneyXAI)**
 
 ---
 
 ### 💳 [ReconcileX — Payment Reconciliation Engine](https://github.com/Kaifkhan1212/ReconcileX)
 
-A payment reconciliation engine that compares bank statements with internal transaction records and flags mismatches, duplicates, refunds and missing records.
+A payment reconciliation engine that compares bank statements with internal transaction records to identify mismatches, duplicates, refunds and missing records.
 
 - Implemented 13 matching rules for transaction comparison.
-- Added secure authentication and role-aware backend access.
-- Built with Java 21, Spring Boot, PostgreSQL, React, TypeScript, Docker and Flyway.
+- Added Spring Security, JWT authentication and role-based access control.
+- Developed the application using Java 21, Spring Boot, PostgreSQL and React.
 
 `Java 21` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Spring Security` `JWT` `Docker` `Flyway`
 
-**[GitHub Repository](https://github.com/Kaifkhan1212/ReconcileX)**
+🚀 **[Live Demo](https://reconcilex.kaifkhan.in)** · 📂 **[GitHub Repository](https://github.com/Kaifkhan1212/ReconcileX)**
 
 ---
 
 ### 📄 [ResumeXAI — AI Resume Analyzer](https://github.com/Kaifkhan1212/ResumeXAI2.0)
 
-An AI-powered platform that analyzes resumes against job descriptions and produces structured feedback with improvement suggestions.
+An AI-powered platform that analyzes resumes against job descriptions and generates structured feedback with actionable improvement suggestions.
 
 - Implemented JWT and Google OAuth authentication.
 - Integrated Groq API with a FastAPI backend.
-- Stores application data in PostgreSQL.
+- Used PostgreSQL for application data management.
 
 `React` `FastAPI` `PostgreSQL` `Groq API` `JWT` `Google OAuth`
 
-**[Live Demo](https://resume-xai-2-0.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/ResumeXAI2.0)**
+🚀 **[Live Demo](https://resume-xai-2-0.vercel.app)** · 📂 **[GitHub Repository](https://github.com/Kaifkhan1212/ResumeXAI2.0)**
 
 ---
 
 ### 🌐 [MindBrief — Intelligent Web Summarizer](https://github.com/Kaifkhan1212/Web-Summarization)
 
-A full-stack AI web summarizer that extracts and synthesizes content from multiple sources into structured research briefs.
+A full-stack AI-powered web summarizer that extracts and synthesizes content from multiple sources into structured research briefs.
 
 - Implemented content extraction using Cheerio and Mozilla Readability.
-- Integrated Gemini API with a Next.js frontend and Express backend.
+- Integrated Gemini API for AI-powered summarization.
+- Developed the application using Next.js and Express.js.
 
 `Next.js` `React` `TypeScript` `Node.js` `Express.js` `Gemini API` `Firebase`
 
-**[Live Demo](https://mind-brief-ai-web-summarizer-caa6.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/Web-Summarization)**
+🚀 **[Live Demo](https://mind-brief-ai-web-summarizer-caa6.vercel.app)** · 📂 **[GitHub Repository](https://github.com/Kaifkhan1212/Web-Summarization)**
 
 ---
 
 ### 🏥 [SehatLink — Rural TeleHealth Platform](https://github.com/Kaifkhan1212/SehatLink)
 
-A telehealth platform connecting patients and doctors, designed with role-based dashboards and real-time data synchronization.
+A telehealth platform connecting patients and doctors through role-based dashboards and real-time data synchronization.
 
-- Built patient and doctor workflows using React.
-- Integrated Firebase Firestore for authentication and real-time data.
-- Added Razorpay payment integration and healthcare features.
+- Developed patient and doctor workflows using React.
+- Integrated Firebase Authentication and Firestore for real-time data management.
+- Added Razorpay payment integration.
 
 `React` `Firebase` `Firestore` `Razorpay`
 
-**[Live Demo](https://sehat-link.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/SehatLink)**
+🚀 **[Live Demo](https://sehat-link.vercel.app)** · 📂 **[GitHub Repository](https://github.com/Kaifkhan1212/SehatLink)**
 
 ---
 
-### 🤖 [Jarvis AI Assistant — Voice AI Dashboard](https://github.com/Kaifkhan1212/Jarvis-AI-Assistant)
+### 🤖 [Jarvis AI Assistant — Voice-Enabled AI Dashboard](https://github.com/Kaifkhan1212/Jarvis-AI-Assistant)
 
-A voice-enabled AI dashboard with streaming responses and local command features.
+A voice-enabled AI assistant featuring streaming responses, conversational interaction and local command capabilities.
 
 - Integrated Groq-powered conversational responses.
 - Used FastAPI and WebSockets for real-time communication.
-- Explored wake-word detection and text-to-speech interactions.
+- Implemented wake-word detection and text-to-speech interactions.
 
 `Python` `FastAPI` `Groq API` `WebSockets`
 
-**[GitHub Repository](https://github.com/Kaifkhan1212/Jarvis-AI-Assistant)**
+📂 **[GitHub Repository](https://github.com/Kaifkhan1212/Jarvis-AI-Assistant)**
+
+---
+
+<div align="center">
+
+**More projects and development updates coming soon.**
+
+</div>
 
 ---
 
