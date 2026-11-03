@@ -310,8 +310,8 @@ A voice-enabled AI assistant featuring streaming responses, conversational inter
 | 🎖️ Achievement | Recognition |
 |:---|:---:|
 | Innov8 Hackathon — Pixels 2026 | 🥈 2nd Prize · 60+ teams |
-| NPTEL — Programming in Java | Elite + Silver · 83% |
-| NPTEL — Cloud Computing | Elite Certification |
+| NPTEL — Programming in Java | Elite + Silver Certification |
+| NPTEL — Cloud Computing | Elite + Silver Certification |
 | Oracle Certified Foundations Associate | Agentic AI |
 | ICET 2026 | Presented research paper — “SafeGuard AI” |
 | QUASTECH | Certificate of Appreciation — BVIMIT Job Fair contribution |
