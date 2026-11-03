@@ -6,17 +6,12 @@
   src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff9d,100:00e5ff&amp;height=210&amp;section=header&amp;text=KHAN%20MOHAMMAD%20KAIF%20SHAHID&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER%20%7C%20JAVA%20DEVELOPER%20%7C%20BUILDING%20AI-POWERED%20APPLICATIONS&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn"
   alt="Khan Mohammad Kaif Shahid - Full Stack Developer and Java Developer"
 />
-
-<br/>
-
 <!-- ⌨️ ANIMATED TYPING EFFECT -->
 <img
   src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Hi%2C+I%27m+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;Java+Developer+%E2%98%95;Building+AI-Powered+Applications+%F0%9F%A4%96;Innov8+Hackathon+2026+-+2nd+Prize+%F0%9F%8F%86"
   alt="Animated introduction"
 />
-
-<br/><br/>
-
+<br/>
 <!-- 📊 PROFILE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=Kaifkhan1212&amp;label=PROFILE%20VIEWS&amp;color=00ff9d&amp;style=flat-square"/>
 
@@ -400,8 +395,8 @@ A voice-enabled AI assistant featuring streaming responses, conversational inter
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e5ff,50:00ff9d,100:0d1117&amp;height=120&amp;section=footer&amp;text=MADE+WITH+LOVE+❤️+BY+KAIF+KHAN&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65"
-    alt="Made with love ❤️ by Kaif Khan"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e5ff,50:00ff9d,100:0d1117&amp;height=120&amp;section=footer&amp;text=MADE+WITH+❤️+BY+KAIF+KHAN&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65"
+    alt="Made with ❤️ by Kaif Khan"
   />
 </p>
 
