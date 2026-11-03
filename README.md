@@ -378,7 +378,7 @@ A voice-enabled AI dashboard with streaming responses and local command features
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e5ff,50:00ff9d,100:0d1117&amp;height=120&amp;section=footer&amp;text=MADE+WITH+LOVE+BY+KAIF+KHAN&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e5ff,50:00ff9d,100:0d1117&amp;height=120&amp;section=footer&amp;text=MADE+WITH+LOVE+❤️+BY+KAIF+KHAN&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65"
     alt="Made with love ❤️ by Kaif Khan"
   />
 </p>
