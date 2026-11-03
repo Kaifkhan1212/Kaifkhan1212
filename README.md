@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- NEON HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:00e5ff&height=210&section=header&text=KAIF%20KHAN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20XAI%20ENTHUSIAST&descAlignY=60&descSize=17&animation=fadeIn" alt="Kaif Khan — Full Stack Developer and AI enthusiast" />
+<!-- Self-hosted banner: upload the assets/ folder along with this README. -->
+<img src="assets/kaif-profile-banner.svg" width="100%" alt="Kaif Khan — Full Stack Developer and AI enthusiast" />
 
-<!-- TYPING INTRO -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&random=false&width=850&lines=%5B+SYSTEM+BOOT...+OK+%5D;Hi%2C+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Explainable+AI+Enthusiast+%F0%9F%A7%A0;Building+Useful+Software+for+Real-World+Problems;Innov8+Hackathon+2026+%E2%80%94+2nd+Prize+%F0%9F%8F%86" alt="Animated introduction" />
 
 <br/>
 
-<!-- LIVE PROFILE BADGES -->
 <a href="https://github.com/Kaifkhan1212">
   <img src="https://komarev.com/ghpvc/?username=Kaifkhan1212&label=PROFILE%20VIEWS&color=00ff9d&style=flat-square" alt="Profile views" />
 </a>
@@ -18,19 +16,18 @@
 <a href="https://github.com/Kaifkhan1212?tab=repositories">
   <img src="https://img.shields.io/github/stars/Kaifkhan1212?affiliations=OWNER&label=STARS&style=flat-square&color=00ff9d&labelColor=0d1117" alt="GitHub stars" />
 </a>
-<img src="https://img.shields.io/badge/ACHIEVEMENT-Innov8%202026%20%7C%202nd%20Prize-00e5ff?style=flat-square&labelColor=0d1117" alt="Innov8 Hackathon second prize" />
+<img src="https://img.shields.io/badge/ACHIEVEMENT-Innov8%202026%20%7C%202nd%20Prize-00d9ff?style=flat-square&labelColor=0d1117" alt="Innov8 Hackathon second prize" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00ff9d?style=flat-square&logo=github&logoColor=0d1117&labelColor=0d1117" alt="Role: Full Stack Developer" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20XAI%20%7C%20Backend-00e5ff?style=flat-square&labelColor=0d1117" alt="Focus: AI, XAI and backend engineering" />
+<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00ff9d?style=flat-square&labelColor=0d1117" alt="Full Stack Developer" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20XAI%20%7C%20Backend-00d9ff?style=flat-square&labelColor=0d1117" alt="AI, XAI and backend" />
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-7c3aed?style=flat-square&labelColor=0d1117" alt="Open to opportunities" />
 
 </div>
 
 ---
 
-<!-- TERMINAL INTRO -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1&pause=99999&color=00FF9D&center=true&vCenter=true&width=620&lines=%24+whoami+--verbose" alt="whoami terminal prompt" />
 </div>
@@ -64,28 +61,14 @@ I’m an MCA student and developer who enjoys turning ideas into practical softw
 
 ---
 
-## 🟢 `LIVE GITHUB STATS`
+## 🟢 `GITHUB CONTRIBUTION STREAK`
 
 <div align="center">
 
-<!-- Compact live counters; avoids relying on the GitHub Readme Stats image service -->
-<img src="https://komarev.com/ghpvc/?username=Kaifkhan1212&label=TOTAL%20PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="Total profile views" />
-<img src="https://img.shields.io/github/followers/Kaifkhan1212?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=0d1117" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Kaifkhan1212?affiliations=OWNER&label=STARS&style=for-the-badge&color=00ff9d&labelColor=0d1117" alt="GitHub stars" />
-
-<br/><br/>
-
-<!-- GitHub streak card -->
+<!-- This is the only live stats card here; profile counters are shown once in the header. -->
 <img src="https://streak-stats.demolab.com?user=Kaifkhan1212&theme=dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00e5ff&currStreakLabel=00ff9d&sideLabels=c8f0ff&dates=7a8a99&stroke=00ff9d&currStreakNum=ffffff&sideNums=00e5ff" alt="GitHub contribution streak" />
 
-<br/><br/>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=Kaifkhan1212&theme=matrix&no-frame=true&column=7&margin-w=6&margin-h=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub profile trophies" />
-
 </div>
-
-> **Note:** I’ve used the streak card and trophy service here, rather than adding the `github-readme-stats` cards that repeatedly failed to load on your profile.
 
 ---
 
@@ -151,15 +134,10 @@ class KaifKhan:
             "Cloud deployment and database design",
             "Building reliable, user-focused applications"
         ]
-        self.selected_work = [
-            "KidneyXAI",
-            "DupliDetect",
-            "CloudPMS",
-            "ReconcileX",
-            "ResumeXAI",
-            "MindBrief",
-            "SehatLink",
-            "Jarvis AI Assistant"
+        self.currently_learning = [
+            "Scalable backend architecture",
+            "Cloud deployment and production systems",
+            "Applied AI and LLM integration"
         ]
         self.open_to = [
             "Software Engineering",
@@ -180,48 +158,43 @@ print(me.say_hello())
 
 ## 🚀 `FEATURED PROJECTS`
 
-<div align="center">
-
-| 🧩 Project | Description | Main Technologies |
-|:---|:---|:---|
-| [**KidneyXAI**](https://github.com/Kaifkhan1212/KidneyXAI) | Explainable chronic kidney disease risk assessment and lifestyle monitoring. | React, Spring Boot, FastAPI, XGBoost, SHAP, PostgreSQL |
-| **DupliDetect** | Multilingual semantic duplicate detection; 2nd Prize at Innov8 Hackathon 2026. | React, FastAPI, Sentence Transformers, FAISS, ONNX |
-| **CloudPMS** | Cloud-based campus placement system with Student, Placement Cell and Admin roles. | React, Node.js, Express, MongoDB, AWS |
-| **ReconcileX** | Payment reconciliation engine using 13 matching rules to detect transaction discrepancies. | Java 21, Spring Boot, PostgreSQL, React, TypeScript, Docker |
-| [**ResumeXAI**](https://github.com/Kaifkhan1212/ResumeXAI2.0) | AI-powered resume analysis and job-description matching with actionable feedback. | React, FastAPI, PostgreSQL, Groq API |
-| [**MindBrief**](https://github.com/Kaifkhan1212/Web-Summarization) | AI web summarizer that extracts and synthesizes content from multiple sources. | Next.js, React, TypeScript, Express, Gemini API |
-| [**SehatLink**](https://github.com/Kaifkhan1212/SehatLink) | Telehealth platform connecting patients and doctors with real-time data sync. | React, Firebase, Razorpay |
-| **Jarvis AI Assistant** | Voice-enabled AI dashboard with streaming responses and local command features. | Python, FastAPI, Groq, WebSockets |
-
-</div>
-
-<br/>
+> Each project is listed once below. Repository links are included only where the public repository URL is confirmed.
 
 ### 🏆 DupliDetect — Multilingual Semantic Duplicate Detection
 
 **🥈 2nd Prize — Innov8 Hackathon (Pixels 2026), among 60+ teams.**
 
-Built a multilingual duplicate-detection solution that identifies semantically similar records across datasets. The system uses transformer-based embeddings and vector similarity search to support efficient cross-lingual matching.
+Built a multilingual duplicate-detection solution that identifies semantically similar records across datasets. The system uses transformer-based embeddings and vector similarity search for cross-lingual matching.
 
-- Contributed to the React-based interface and frontend/backend integration.
-- Worked on authentication and application feature implementation.
-- Project stack included Sentence Transformers, FAISS vector search, ONNX Runtime and FastAPI.
+- Contributed to the React-based interface and backend/ML integration.
+- Integrated Sentence Transformers with FAISS for embedding search.
+- Used ONNX Runtime and FastAPI in the inference pipeline.
+
+`React` `Python` `FastAPI` `Sentence Transformers` `FAISS` `ONNX Runtime`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420" alt="Kaif Khan with teammates receiving the Innov8 Hackathon award" />
 </div>
 
+**Repository:** Public repository URL not added to this README yet.
+
+---
+
 ### ☁️ CloudPMS — Cloud-Based Campus Placement Management System
 
 A role-based placement platform built for Students, Placement Cell and Admin workflows.
 
-- Developed full-stack placement-management workflows and role-based dashboards.
+- Developed placement-management workflows and role-based dashboards.
 - Integrated Amazon S3 for resume storage, Textract for text extraction and SES for email notifications.
 - Deployed on AWS EC2 with Nginx and PM2, using MongoDB Atlas and HTTPS.
 
 `React` `Node.js` `Express.js` `MongoDB Atlas` `AWS S3` `AWS Textract` `AWS SES` `Nginx` `PM2`
 
-### 🩺 KidneyXAI — Explainable AI Kidney Risk Assessment
+**Repository:** Public repository URL not added to this README yet.
+
+---
+
+### 🩺 [KidneyXAI — Explainable AI Kidney Risk Assessment](https://github.com/Kaifkhan1212/KidneyXAI)
 
 A full-stack explainable AI platform for chronic kidney disease risk assessment and lifestyle monitoring. It combines XGBoost predictions with TreeSHAP feature explanations to make model outputs easier to interpret.
 
@@ -231,9 +204,11 @@ A full-stack explainable AI platform for chronic kidney disease risk assessment 
 
 `React` `Spring Boot` `Python` `FastAPI` `XGBoost` `TreeSHAP` `PostgreSQL`
 
-**[Live Demo](https://kidney-xai.kaifkhan.in)** · **[Repository](https://github.com/Kaifkhan1212/KidneyXAI)**
+**[Live Demo](https://kidney-xai.kaifkhan.in)** · **[GitHub Repository](https://github.com/Kaifkhan1212/KidneyXAI)**
 
-### 💳 ReconcileX — Payment Reconciliation Engine
+---
+
+### 💳 [ReconcileX — Payment Reconciliation Engine](https://github.com/Kaifkhan1212/ReconcileX)
 
 A payment reconciliation engine that compares bank statements with internal transaction records and flags mismatches, duplicates, refunds and missing records.
 
@@ -243,7 +218,11 @@ A payment reconciliation engine that compares bank statements with internal tran
 
 `Java 21` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Spring Security` `JWT` `Docker` `Flyway`
 
-### 📄 ResumeXAI — AI Resume Analyzer
+**[GitHub Repository](https://github.com/Kaifkhan1212/ReconcileX)**
+
+---
+
+### 📄 [ResumeXAI — AI Resume Analyzer](https://github.com/Kaifkhan1212/ResumeXAI2.0)
 
 An AI-powered platform that analyzes resumes against job descriptions and produces structured feedback with improvement suggestions.
 
@@ -253,18 +232,48 @@ An AI-powered platform that analyzes resumes against job descriptions and produc
 
 `React` `FastAPI` `PostgreSQL` `Groq API` `JWT` `Google OAuth`
 
-**[Live Demo](https://resume-xai-2-0.vercel.app)** · **[Repository](https://github.com/Kaifkhan1212/ResumeXAI2.0)**
+**[Live Demo](https://resume-xai-2-0.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/ResumeXAI2.0)**
 
-### 🌐 More Projects
+---
 
-- **MindBrief:** Full-stack AI web summarizer using Next.js, Express, Gemini API, Cheerio and Mozilla Readability.  
-  **[Live Demo](https://mind-brief-ai-web-summarizer-caa6.vercel.app)** · **[Repository](https://github.com/Kaifkhan1212/Web-Summarization)**
-- **SehatLink:** Rural telehealth platform with patient/doctor dashboards, Firebase real-time sync and Razorpay integration.  
-  **[Live Demo](https://sehat-link.vercel.app)** · **[Repository](https://github.com/Kaifkhan1212/SehatLink)**
-- **Jarvis AI Assistant:** Voice-enabled AI dashboard using Groq, FastAPI and WebSockets, with wake-word detection and text-to-speech.
-- **Nexus — Helpdesk & Ticketing System:** Role-based Admin and Employee dashboards developed for BVIMIT's internal Smart India Hackathon selection round.
+### 🌐 [MindBrief — Intelligent Web Summarizer](https://github.com/Kaifkhan1212/Web-Summarization)
 
-**[Explore all projects on my portfolio](https://www.kaifkhan.in/)**
+A full-stack AI web summarizer that extracts and synthesizes content from multiple sources into structured research briefs.
+
+- Implemented content extraction using Cheerio and Mozilla Readability.
+- Integrated Gemini API with a Next.js frontend and Express backend.
+
+`Next.js` `React` `TypeScript` `Node.js` `Express.js` `Gemini API` `Firebase`
+
+**[Live Demo](https://mind-brief-ai-web-summarizer-caa6.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/Web-Summarization)**
+
+---
+
+### 🏥 [SehatLink — Rural TeleHealth Platform](https://github.com/Kaifkhan1212/SehatLink)
+
+A telehealth platform connecting patients and doctors, designed with role-based dashboards and real-time data synchronization.
+
+- Built patient and doctor workflows using React.
+- Integrated Firebase Firestore for authentication and real-time data.
+- Added Razorpay payment integration and healthcare features.
+
+`React` `Firebase` `Firestore` `Razorpay`
+
+**[Live Demo](https://sehat-link.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/SehatLink)**
+
+---
+
+### 🤖 [Jarvis AI Assistant — Voice AI Dashboard](https://github.com/Kaifkhan1212/Jarvis-AI-Assistant)
+
+A voice-enabled AI dashboard with streaming responses and local command features.
+
+- Integrated Groq-powered conversational responses.
+- Used FastAPI and WebSockets for real-time communication.
+- Explored wake-word detection and text-to-speech interactions.
+
+`Python` `FastAPI` `Groq API` `WebSockets`
+
+**[GitHub Repository](https://github.com/Kaifkhan1212/Jarvis-AI-Assistant)**
 
 ---
 
@@ -274,7 +283,7 @@ An AI-powered platform that analyzes resumes against job descriptions and produc
 
 | 🎖️ Achievement | Recognition |
 |:---|:---:|
-| Innov8 Hackathon — Pixels 2026 | 🥈 2nd Prize |
+| Innov8 Hackathon — Pixels 2026 | 🥈 2nd Prize · 60+ teams |
 | NPTEL — Programming in Java | Elite + Silver · 83% |
 | NPTEL — Cloud Computing | Elite Certification |
 | Oracle Certified Foundations Associate | Agentic AI |
@@ -296,7 +305,7 @@ An AI-powered platform that analyzes resumes against job descriptions and produc
 ║  Database Engineering        ║  PostgreSQL · MongoDB · Firebase     ║
 ║  AI & Explainable AI         ║  XGBoost · SHAP · Transformers       ║
 ║  LLM Integration             ║  Gemini API · Groq API               ║
-║  Cloud & Deployment          ║  AWS · Vercel · Render · Docker       ║
+║  Cloud & Deployment          ║  AWS · Vercel · Render · Docker      ║
 ╚══════════════════════════════╩═══════════════════════════════════════╝
 ```
 
@@ -334,29 +343,17 @@ An AI-powered platform that analyzes resumes against job descriptions and produc
 
 ---
 
----
+## 🐍 `CONTRIBUTION SNAKE`
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
----
+</div>
 
 ---
 
@@ -368,6 +365,6 @@ An AI-powered platform that analyzes resumes against job descriptions and produc
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:00ff9d,100:0d1117&height=120&section=footer&text=Built%20with%20curiosity%20%26%20code%20by%20Kaif%20Khan&fontSize=18&fontColor=ffffff&fontAlignY=65" alt="Built with curiosity and code by Kaif Khan" />
+<img src="assets/kaif-footer-banner.svg" width="100%" alt="Built with curiosity and code by Kaif Khan" />
 
 </div>
