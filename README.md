@@ -11,7 +11,7 @@
 
 <!-- ⌨️ ANIMATED TYPING EFFECT -->
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=%5B+SYSTEM+BOOT...+OK+%5D;Hi%2C+I%27m+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;Java+Developer+%E2%98%95;Building+AI-Powered+Applications+%F0%9F%A4%96;Innov8+Hackathon+2026+-+2nd+Prize+%F0%9F%8F%86"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Hi%2C+I%27m+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;Java+Developer+%E2%98%95;Building+AI-Powered+Applications+%F0%9F%A4%96;Innov8+Hackathon+2026+-+2nd+Prize+%F0%9F%8F%86"
   alt="Animated introduction"
 />
 
@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-FF8C00?style=flat-square&amp;labelColor=0d1117"/>
 
 </div>
-
 ---
 
 <div align="center">
