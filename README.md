@@ -1,10 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED NEON HEADER BANNER -->
+<!-- ANIMATED NEON HEADER BANNER -->
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff9d,100:00e5ff&amp;height=210&amp;section=header&amp;text=KHAN%20MOHAMMAD%20KAIF%20SHAHID&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20AND%20EXPLAINABLE%20AI%20ENTHUSIAST&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn"
-  alt="Khan Mohammad Kaif Shahid - Full Stack Developer"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff9d,100:00e5ff&amp;height=210&amp;section=header&amp;text=KHAN%20MOHAMMAD%20KAIF%20SHAHID&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER%20%7C%20JAVA%20DEVELOPER%20%7C%20BUILDING%20AI-POWERED%20APPLICATIONS&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn"
+  alt="Khan Mohammad Kaif Shahid - Full Stack Developer and Java Developer"
 />
 
 <!-- ANIMATED TYPING EFFECT -->
