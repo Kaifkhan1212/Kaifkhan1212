@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- Self-hosted banner: upload the assets/ folder along with this README. -->
-<img src="assets/kaif-profile-banner.svg" width="100%" alt="Kaif Khan — Full Stack Developer and AI enthusiast" />
+<!-- Animated neon banner, matching the reference style -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&random=false&width=850&lines=%5B+SYSTEM+BOOT...+OK+%5D;Hi%2C+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Explainable+AI+Enthusiast+%F0%9F%A7%A0;Building+Useful+Software+for+Real-World+Problems;Innov8+Hackathon+2026+%E2%80%94+2nd+Prize+%F0%9F%8F%86" alt="Animated introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:00e5ff&height=220&section=header&text=KHAN%20MOHAMMAD%20KAIF%20SHAHID&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20EXPLAINABLE%20AI%20ENTHUSIAST&descAlignY=60&descSize=16&animation=fadeIn" alt="Khan Mohammad Kaif Shahid — Full Stack Developer and AI enthusiast" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&random=false&width=950&lines=%5B+SYSTEM+BOOT...+OK+%5D;Hi%2C+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Explainable+AI+Enthusiast+%F0%9F%A7%A0;Building+Useful+Software+for+Real-World+Problems;Innov8+Hackathon+2026+%E2%80%94+2nd+Prize+%F0%9F%8F%86" alt="Animated introduction" />
 
 <br/>
 
@@ -26,13 +27,10 @@
 
 </div>
 
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1&pause=99999&color=00FF9D&center=true&vCenter=true&width=620&lines=%24+whoami+--verbose" alt="whoami terminal prompt" />
 </div>
 
-```bash
 ┌──(kaif㉿github)-[~]
 └─$ whoami --verbose
 
@@ -55,46 +53,42 @@
 [+] Ask Me About .......... Java, Python, React, APIs, databases & AI projects
 
 [✓] Session established — welcome to my GitHub!
-```
 
 I’m an MCA student and developer who enjoys turning ideas into practical software. I build full-stack applications, AI-powered products and explainable AI systems, with a focus on clean implementation, useful features and real-world problem solving.
 
----
-
-## 🟢 `GITHUB CONTRIBUTION STREAK`
+🟢 GITHUB CONTRIBUTION STREAK
 
 <div align="center">
 
 <!-- This is the only live stats card here; profile counters are shown once in the header. -->
+
 <img src="https://streak-stats.demolab.com?user=Kaifkhan1212&theme=dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00e5ff&currStreakLabel=00ff9d&sideLabels=c8f0ff&dates=7a8a99&stroke=00ff9d&currStreakNum=ffffff&sideNums=00e5ff" alt="GitHub contribution streak" />
 
 </div>
 
----
-
-## ⚔️ `TECH ARSENAL — TOOLS & TECHNOLOGIES`
+⚔️ TECH ARSENAL — TOOLS & TECHNOLOGIES
 
 <div align="center">
 
-### 🌐 Frontend Engineering
+🌐 Frontend Engineering
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap and Tailwind CSS" />
 
 <br/><br/>
 
-### ⚙️ Backend Engineering
+⚙️ Backend Engineering
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs&theme=dark" alt="Java, Spring Boot, Python, FastAPI and Node.js" />
 
 <br/><br/>
 
-### 🗄️ Databases & Backend Services
+🗄️ Databases & Backend Services
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Firebase and Supabase" />
 
 <br/><br/>
 
-### 🤖 AI, ML & LLM Integration
+🤖 AI, ML & LLM Integration
 
 <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
 <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API" />
@@ -106,7 +100,7 @@ I’m an MCA student and developer who enjoys turning ideas into practical softw
 
 <br/><br/>
 
-### ☁️ Cloud, DevOps & Developer Tools
+☁️ Cloud, DevOps & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma&theme=dark" alt="AWS, Docker, Git, GitHub, VS Code, Postman and Figma" />
 <br/><br/>
@@ -117,11 +111,8 @@ I’m an MCA student and developer who enjoys turning ideas into practical softw
 
 </div>
 
----
+🎯 CURRENT MISSIONS
 
-## 🎯 `CURRENT MISSIONS`
-
-```python
 class KaifKhan:
     def __init__(self):
         self.name = "Khan Mohammad Kaif Shahid"
@@ -152,151 +143,163 @@ class KaifKhan:
 me = KaifKhan()
 print(me.say_hello())
 # Let's build something useful and impactful!
-```
 
----
+🚀 FEATURED PROJECTS
 
-## 🚀 `FEATURED PROJECTS`
+Each project is listed once below. Repository links are included only where the public repository URL is confirmed.
 
-> Each project is listed once below. Repository links are included only where the public repository URL is confirmed.
+🏆 DupliDetect — Multilingual Semantic Duplicate Detection
 
-### 🏆 DupliDetect — Multilingual Semantic Duplicate Detection
-
-**🥈 2nd Prize — Innov8 Hackathon (Pixels 2026), among 60+ teams.**
+🥈 2nd Prize — Innov8 Hackathon (Pixels 2026), among 60+ teams.
 
 Built a multilingual duplicate-detection solution that identifies semantically similar records across datasets. The system uses transformer-based embeddings and vector similarity search for cross-lingual matching.
 
-- Contributed to the React-based interface and backend/ML integration.
-- Integrated Sentence Transformers with FAISS for embedding search.
-- Used ONNX Runtime and FastAPI in the inference pipeline.
+Contributed to the React-based interface and backend/ML integration.
 
-`React` `Python` `FastAPI` `Sentence Transformers` `FAISS` `ONNX Runtime`
+Integrated Sentence Transformers with FAISS for embedding search.
+
+Used ONNX Runtime and FastAPI in the inference pipeline.
+
+React Python FastAPI Sentence Transformers FAISS ONNX Runtime
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420" alt="Kaif Khan with teammates receiving the Innov8 Hackathon award" />
 </div>
 
-**Repository:** Public repository URL not added to this README yet.
+Repository: Public repository URL not added to this README yet.
 
----
-
-### ☁️ CloudPMS — Cloud-Based Campus Placement Management System
+☁️ CloudPMS — Cloud-Based Campus Placement Management System
 
 A role-based placement platform built for Students, Placement Cell and Admin workflows.
 
-- Developed placement-management workflows and role-based dashboards.
-- Integrated Amazon S3 for resume storage, Textract for text extraction and SES for email notifications.
-- Deployed on AWS EC2 with Nginx and PM2, using MongoDB Atlas and HTTPS.
+Developed placement-management workflows and role-based dashboards.
 
-`React` `Node.js` `Express.js` `MongoDB Atlas` `AWS S3` `AWS Textract` `AWS SES` `Nginx` `PM2`
+Integrated Amazon S3 for resume storage, Textract for text extraction and SES for email notifications.
 
-**Repository:** Public repository URL not added to this README yet.
+Deployed on AWS EC2 with Nginx and PM2, using MongoDB Atlas and HTTPS.
 
----
+React Node.js Express.js MongoDB Atlas AWS S3 AWS Textract AWS SES Nginx PM2
 
-### 🩺 [KidneyXAI — Explainable AI Kidney Risk Assessment](https://github.com/Kaifkhan1212/KidneyXAI)
+Repository: Public repository URL not added to this README yet.
+
+🩺 KidneyXAI — Explainable AI Kidney Risk Assessment
 
 A full-stack explainable AI platform for chronic kidney disease risk assessment and lifestyle monitoring. It combines XGBoost predictions with TreeSHAP feature explanations to make model outputs easier to interpret.
 
-- Built the backend using Spring Boot and a Python FastAPI ML service.
-- Used Supabase PostgreSQL for application data.
-- Added lifestyle tracking to support ongoing patient monitoring.
+Built the backend using Spring Boot and a Python FastAPI ML service.
 
-`React` `Spring Boot` `Python` `FastAPI` `XGBoost` `TreeSHAP` `PostgreSQL`
+Used Supabase PostgreSQL for application data.
 
-**[Live Demo](https://kidney-xai.kaifkhan.in)** · **[GitHub Repository](https://github.com/Kaifkhan1212/KidneyXAI)**
+Added lifestyle tracking to support ongoing patient monitoring.
 
----
+React Spring Boot Python FastAPI XGBoost TreeSHAP PostgreSQL
 
-### 💳 [ReconcileX — Payment Reconciliation Engine](https://github.com/Kaifkhan1212/ReconcileX)
+Live Demo · GitHub Repository
+
+💳 ReconcileX — Payment Reconciliation Engine
 
 A payment reconciliation engine that compares bank statements with internal transaction records and flags mismatches, duplicates, refunds and missing records.
 
-- Implemented 13 matching rules for transaction comparison.
-- Added secure authentication and role-aware backend access.
-- Built with Java 21, Spring Boot, PostgreSQL, React, TypeScript, Docker and Flyway.
+Implemented 13 matching rules for transaction comparison.
 
-`Java 21` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Spring Security` `JWT` `Docker` `Flyway`
+Added secure authentication and role-aware backend access.
 
-**[GitHub Repository](https://github.com/Kaifkhan1212/ReconcileX)**
+Built with Java 21, Spring Boot, PostgreSQL, React, TypeScript, Docker and Flyway.
 
----
+Java 21 Spring Boot PostgreSQL React TypeScript Spring Security JWT Docker Flyway
 
-### 📄 [ResumeXAI — AI Resume Analyzer](https://github.com/Kaifkhan1212/ResumeXAI2.0)
+GitHub Repository
+
+📄 ResumeXAI — AI Resume Analyzer
 
 An AI-powered platform that analyzes resumes against job descriptions and produces structured feedback with improvement suggestions.
 
-- Implemented JWT and Google OAuth authentication.
-- Integrated Groq API with a FastAPI backend.
-- Stores application data in PostgreSQL.
+Implemented JWT and Google OAuth authentication.
 
-`React` `FastAPI` `PostgreSQL` `Groq API` `JWT` `Google OAuth`
+Integrated Groq API with a FastAPI backend.
 
-**[Live Demo](https://resume-xai-2-0.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/ResumeXAI2.0)**
+Stores application data in PostgreSQL.
 
----
+React FastAPI PostgreSQL Groq API JWT Google OAuth
 
-### 🌐 [MindBrief — Intelligent Web Summarizer](https://github.com/Kaifkhan1212/Web-Summarization)
+Live Demo · GitHub Repository
+
+🌐 MindBrief — Intelligent Web Summarizer
 
 A full-stack AI web summarizer that extracts and synthesizes content from multiple sources into structured research briefs.
 
-- Implemented content extraction using Cheerio and Mozilla Readability.
-- Integrated Gemini API with a Next.js frontend and Express backend.
+Implemented content extraction using Cheerio and Mozilla Readability.
 
-`Next.js` `React` `TypeScript` `Node.js` `Express.js` `Gemini API` `Firebase`
+Integrated Gemini API with a Next.js frontend and Express backend.
 
-**[Live Demo](https://mind-brief-ai-web-summarizer-caa6.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/Web-Summarization)**
+Next.js React TypeScript Node.js Express.js Gemini API Firebase
 
----
+Live Demo · GitHub Repository
 
-### 🏥 [SehatLink — Rural TeleHealth Platform](https://github.com/Kaifkhan1212/SehatLink)
+🏥 SehatLink — Rural TeleHealth Platform
 
 A telehealth platform connecting patients and doctors, designed with role-based dashboards and real-time data synchronization.
 
-- Built patient and doctor workflows using React.
-- Integrated Firebase Firestore for authentication and real-time data.
-- Added Razorpay payment integration and healthcare features.
+Built patient and doctor workflows using React.
 
-`React` `Firebase` `Firestore` `Razorpay`
+Integrated Firebase Firestore for authentication and real-time data.
 
-**[Live Demo](https://sehat-link.vercel.app)** · **[GitHub Repository](https://github.com/Kaifkhan1212/SehatLink)**
+Added Razorpay payment integration and healthcare features.
 
----
+React Firebase Firestore Razorpay
 
-### 🤖 [Jarvis AI Assistant — Voice AI Dashboard](https://github.com/Kaifkhan1212/Jarvis-AI-Assistant)
+Live Demo · GitHub Repository
+
+🤖 Jarvis AI Assistant — Voice AI Dashboard
 
 A voice-enabled AI dashboard with streaming responses and local command features.
 
-- Integrated Groq-powered conversational responses.
-- Used FastAPI and WebSockets for real-time communication.
-- Explored wake-word detection and text-to-speech interactions.
+Integrated Groq-powered conversational responses.
 
-`Python` `FastAPI` `Groq API` `WebSockets`
+Used FastAPI and WebSockets for real-time communication.
 
-**[GitHub Repository](https://github.com/Kaifkhan1212/Jarvis-AI-Assistant)**
+Explored wake-word detection and text-to-speech interactions.
 
----
+Python FastAPI Groq API WebSockets
 
-## 🏆 `ACHIEVEMENTS & RECOGNITION`
+GitHub Repository
+
+🏆 ACHIEVEMENTS & RECOGNITION
 
 <div align="center">
 
-| 🎖️ Achievement | Recognition |
-|:---|:---:|
-| Innov8 Hackathon — Pixels 2026 | 🥈 2nd Prize · 60+ teams |
-| NPTEL — Programming in Java | Elite + Silver · 83% |
-| NPTEL — Cloud Computing | Elite Certification |
-| Oracle Certified Foundations Associate | Agentic AI |
-| ICET 2026 | Presented research paper — “SafeGuard AI” |
-| QUASTECH | Certificate of Appreciation — BVIMIT Job Fair contribution |
+🎖️ Achievement
+
+Recognition
+
+Innov8 Hackathon — Pixels 2026
+
+🥈 2nd Prize · 60+ teams
+
+NPTEL — Programming in Java
+
+Elite + Silver · 83%
+
+NPTEL — Cloud Computing
+
+Elite Certification
+
+Oracle Certified Foundations Associate
+
+Agentic AI
+
+ICET 2026
+
+Presented research paper — “SafeGuard AI”
+
+QUASTECH
+
+Certificate of Appreciation — BVIMIT Job Fair contribution
 
 </div>
 
----
+📊 ENGINEERING FOCUS
 
-## 📊 `ENGINEERING FOCUS`
-
-```text
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  ENGINEERING FOCUS — KAIFKHAN1212                                  ║
 ╠══════════════════════════════╦═══════════════════════════════════════╣
@@ -307,22 +310,20 @@ A voice-enabled AI dashboard with streaming responses and local command features
 ║  LLM Integration             ║  Gemini API · Groq API               ║
 ║  Cloud & Deployment          ║  AWS · Vercel · Render · Docker      ║
 ╚══════════════════════════════╩═══════════════════════════════════════╝
-```
 
----
+🤝 OPEN TO COLLABORATE & OPPORTUNITIES
 
-## 🤝 `OPEN TO COLLABORATE & OPPORTUNITIES`
+Full-stack and backend application development.
 
-- Full-stack and backend application development.
-- AI-powered products, explainable AI and applied NLP.
-- Cloud-deployed academic and real-world software projects.
-- Hackathons and open-source collaboration.
+AI-powered products, explainable AI and applied NLP.
 
-**Currently open to:** Software Engineering, Full-Stack Development, Backend Development and AI Engineering opportunities.
+Cloud-deployed academic and real-world software projects.
 
----
+Hackathons and open-source collaboration.
 
-## 🌐 `CONNECT WITH ME`
+Currently open to: Software Engineering, Full-Stack Development, Backend Development and AI Engineering opportunities.
+
+🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -341,9 +342,7 @@ A voice-enabled AI dashboard with streaming responses and local command features
 
 </div>
 
----
-
-## 🐍 `CONTRIBUTION SNAKE`
+🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -355,16 +354,14 @@ A voice-enabled AI dashboard with streaming responses and local command features
 
 </div>
 
----
-
 <div align="center">
 
-### 💬 `A DEVELOPER'S NOTE`
+💬 A DEVELOPER'S NOTE
 
-*“Build software that solves real problems. Build AI that people can understand. Keep learning, keep shipping.”*
+“Build software that solves real problems. Build AI that people can understand. Keep learning, keep shipping.”
 
 <br/>
 
-<img src="assets/kaif-footer-banner.svg" width="100%" alt="Built with curiosity and code by Kaif Khan" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:00ff9d,100:0d1117&height=120&section=footer&text=BUILT%20WITH%20CURIOSITY%20%26%20CODE%20BY%20KAIF%20KHAN&fontSize=18&fontColor=ffffff&fontAlignY=65" alt="Built with curiosity and code by Kaif Khan" />
 
 </div>
