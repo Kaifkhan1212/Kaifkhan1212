@@ -1,22 +1,23 @@
 <div align="center">
 
-<!-- ANIMATED NEON HEADER BANNER -->
-<!-- ANIMATED NEON HEADER BANNER -->
+<!-- 🌊 ANIMATED NEON HEADER BANNER -->
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff9d,100:00e5ff&amp;height=210&amp;section=header&amp;text=KHAN%20MOHAMMAD%20KAIF%20SHAHID&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER%20%7C%20JAVA%20DEVELOPER%20%7C%20BUILDING%20AI-POWERED%20APPLICATIONS&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn"
   alt="Khan Mohammad Kaif Shahid - Full Stack Developer and Java Developer"
 />
 
-<!-- ANIMATED TYPING EFFECT -->
+<br/>
+
+<!-- ⌨️ ANIMATED TYPING EFFECT -->
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=%5B+SYSTEM+BOOT...+OK+%5D;Hi%2C+I%27m+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;AI+and+Explainable+AI+Enthusiast+%F0%9F%A7%A0;Innov8+Hackathon+2026+-+2nd+Prize+%F0%9F%8F%86"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=%5B+SYSTEM+BOOT...+OK+%5D;Hi%2C+I%27m+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;Java+Developer+%E2%98%95;Building+AI-Powered+Applications+%F0%9F%A4%96;Innov8+Hackathon+2026+-+2nd+Prize+%F0%9F%8F%86"
   alt="Animated introduction"
 />
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE BADGES -->
+<!-- 📊 PROFILE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=Kaifkhan1212&amp;label=PROFILE%20VIEWS&amp;color=00ff9d&amp;style=flat-square"/>
 
 <img src="https://img.shields.io/github/followers/Kaifkhan1212?label=FOLLOWERS&amp;style=flat-square&amp;color=00e5ff&amp;labelColor=0d1117"/>
@@ -25,15 +26,15 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00ff9d?style=flat-square&amp;labelColor=0d1117"/>
+<!-- 💻 DEVELOPER IDENTITY -->
+<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20%7C%20Java%20Developer-00ff9d?style=flat-square&amp;labelColor=0d1117"/>
 
 <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20XAI%20%7C%20Backend-00d9ff?style=flat-square&amp;labelColor=0d1117"/>
 
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-7c3aed?style=flat-square&amp;labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-FF8C00?style=flat-square&amp;labelColor=0d1117"/>
 
 </div>
 
----
 ---
 
 <div align="center">
