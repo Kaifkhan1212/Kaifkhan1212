@@ -186,8 +186,7 @@ An AI-powered solution that identifies semantically similar records across multi
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420" alt="Innov8 Hackathon 2026 award ceremony" />
 </div>
-📂 **[GitHub Repository](https://github.com/Kaifkhan1212/DupliDetect-AI.git)**
-
+📂 **[GitHub Repository](https://github.com/Kaifkhan1212/DupliDetect-AI)**
 ---
 
 ### ☁️ CloudPMS — Cloud-Based Campus Placement Management System
