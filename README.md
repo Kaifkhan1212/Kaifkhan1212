@@ -334,18 +334,29 @@ An AI-powered platform that analyzes resumes against job descriptions and produc
 
 ---
 
-## 🐍 `CONTRIBUTION SNAKE`
+---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-<!-- This image is created by .github/workflows/snake.yml. It appears after the workflow succeeds once. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
-</div>
+---
 
 ---
 
