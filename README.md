@@ -184,9 +184,22 @@ An AI-powered solution that identifies semantically similar records across multi
 `React` `Python` `FastAPI` `Sentence Transformers` `FAISS` `ONNX Runtime`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg" width="420" alt="Innov8 Hackathon 2026 award ceremony" />
+
+  <img
+    src="https://raw.githubusercontent.com/Kaifkhan1212/Kaifkhan1212/main/hackathon-win.jpeg"
+    width="420"
+    alt="Innov8 Hackathon 2026 award ceremony"
+  />
+
+  <br/><br/>
+
+  <a href="https://github.com/Kaifkhan1212/DupliDetect-AI">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
+
 </div>
-📂 **[GitHub Repository](https://github.com/Kaifkhan1212/DupliDetect-AI)**---
+
+---
 
 ### ☁️ CloudPMS — Cloud-Based Campus Placement Management System
 
