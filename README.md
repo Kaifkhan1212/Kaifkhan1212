@@ -34,11 +34,11 @@
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-FF8C00?style=flat-square&amp;labelColor=0d1117"/>
 
 </div>
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1&pause=99999&color=00FF9D&center=true&vCenter=true&width=620&lines=%24+whoami+--verbose" alt="whoami terminal prompt" />
 </div>
+---
 
 ```bash
 ┌──(kaif㉿github)-[~]
