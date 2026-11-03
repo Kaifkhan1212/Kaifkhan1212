@@ -1,32 +1,38 @@
 <div align="center">
 
-<!-- Animated neon banner, matching the reference style -->
+<!-- ANIMATED NEON HEADER BANNER -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00ff9d,100:00e5ff&amp;height=210&amp;section=header&amp;text=KHAN%20MOHAMMAD%20KAIF%20SHAHID&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20AND%20EXPLAINABLE%20AI%20ENTHUSIAST&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn"
+  alt="Khan Mohammad Kaif Shahid - Full Stack Developer"
+/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:00e5ff&height=220&section=header&text=KHAN%20MOHAMMAD%20KAIF%20SHAHID&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20EXPLAINABLE%20AI%20ENTHUSIAST&descAlignY=60&descSize=16&animation=fadeIn" alt="Khan Mohammad Kaif Shahid — Full Stack Developer and AI enthusiast" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&random=false&width=950&lines=%5B+SYSTEM+BOOT...+OK+%5D;Hi%2C+I'm+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Explainable+AI+Enthusiast+%F0%9F%A7%A0;Building+Useful+Software+for+Real-World+Problems;Innov8+Hackathon+2026+%E2%80%94+2nd+Prize+%F0%9F%8F%86" alt="Animated introduction" />
+<!-- ANIMATED TYPING EFFECT -->
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=00FF9D&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=%5B+SYSTEM+BOOT...+OK+%5D;Hi%2C+I%27m+Khan+Mohammad+Kaif+Shahid;Full+Stack+Developer+%F0%9F%9A%80;AI+and+Explainable+AI+Enthusiast+%F0%9F%A7%A0;Innov8+Hackathon+2026+-+2nd+Prize+%F0%9F%8F%86"
+  alt="Animated introduction"
+/>
 
 <br/>
 
-<a href="https://github.com/Kaifkhan1212">
-  <img src="https://komarev.com/ghpvc/?username=Kaifkhan1212&label=PROFILE%20VIEWS&color=00ff9d&style=flat-square" alt="Profile views" />
-</a>
-<a href="https://github.com/Kaifkhan1212?tab=followers">
-  <img src="https://img.shields.io/github/followers/Kaifkhan1212?label=FOLLOWERS&style=flat-square&color=00e5ff&labelColor=0d1117" alt="GitHub followers" />
-</a>
-<a href="https://github.com/Kaifkhan1212?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Kaifkhan1212?affiliations=OWNER&label=STARS&style=flat-square&color=00ff9d&labelColor=0d1117" alt="GitHub stars" />
-</a>
-<img src="https://img.shields.io/badge/ACHIEVEMENT-Innov8%202026%20%7C%202nd%20Prize-00d9ff?style=flat-square&labelColor=0d1117" alt="Innov8 Hackathon second prize" />
+<!-- PROFILE BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Kaifkhan1212&amp;label=PROFILE%20VIEWS&amp;color=00ff9d&amp;style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/Kaifkhan1212?label=FOLLOWERS&amp;style=flat-square&amp;color=00e5ff&amp;labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/ACHIEVEMENT-Innov8%202026%20%7C%202nd%20Prize-00d9ff?style=flat-square&amp;labelColor=0d1117"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00ff9d?style=flat-square&labelColor=0d1117" alt="Full Stack Developer" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20XAI%20%7C%20Backend-00d9ff?style=flat-square&labelColor=0d1117" alt="AI, XAI and backend" />
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-7c3aed?style=flat-square&labelColor=0d1117" alt="Open to opportunities" />
+<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00ff9d?style=flat-square&amp;labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20XAI%20%7C%20Backend-00d9ff?style=flat-square&amp;labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-7c3aed?style=flat-square&amp;labelColor=0d1117"/>
 
 </div>
 
+---
 ---
 
 <div align="center">
